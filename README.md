@@ -20,12 +20,12 @@
  `npm run build`
  - Run
  `npm run prod`
- - Open browser and open http://{ip}:3001
+ - Open browsegfgfgfgr and open http://{ip}:3001
 
  ### Packaging onpremise
  - Install library pkg
  `npm install -g pkg`
- - Build
+ - Build`````
  `npm run build:onpremise`
  - Package
  `npm run build:pkg // output file in pkg/`
